@@ -9,7 +9,7 @@ Danny wants to use the data to answer a few simple questions about his customers
 
 He plans on using these insights to help him decide whether he should expand the existing customer loyalty program - additionally he needs help to generate some basic datasets so his team can easily inspect the data without needing to use SQL.
 ## Data Sources
-### This repository contains three key datasets provided by Danny for the case study. The datasets are:
+### This repository contains three key datasets provided by Danny for the case study. _The datasets are_:
 ### 1. Sales Table
   * Description: The sales table captures all customer_id level purchases with an corresponding order_date and product_id information for when and what menu items were ordered.
 ### 2. Menu Table
